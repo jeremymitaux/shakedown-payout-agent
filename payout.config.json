@@ -1,0 +1,17 @@
+{
+  "show": {
+    "name": "Shakedown @ WOW Hall",
+    "date": "2026-06-07",
+    "venue": "WOW Hall — Eugene, OR"
+  },
+  "treasury": {
+    "label": "solana-1",
+    "address": "9t67x8saRicgVWyPAtgSxM4SLLTJTUAosw1fb4L1Vg6R"
+  },
+  "gross_revenue_sol": 0.02,
+  "splits": [
+    { "name": "Headliner", "address": "8Y3rWRS1nx1bV7bTpNAap29MtAr5pBrBYQfMUtuNVH5d", "pct": 50 },
+    { "name": "Opener",    "address": "H6tzMxU4nkJJSPZX9j8jTJCZ714fFZfg3Txy8DRWSzU8", "pct": 30 },
+    { "name": "Venue",     "address": "89CmLGCjfFok7G2DZhTeEax8oEBfzbArz4CNbnSDZ69q", "pct": 20 }
+  ]
+}
